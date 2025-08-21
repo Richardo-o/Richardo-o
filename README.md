@@ -13,5 +13,12 @@
   
 
 <hr>
-<h2> 📊 Estatísticas </h2>
+
+## 📊 Estatísticas
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=Richardo-o&show_icons=true&theme=transparent) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardo-o&layout=compact&theme=transparent)
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=Richardo-o&theme=transparent)
+
 
