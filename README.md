@@ -14,4 +14,4 @@
 
 <hr>
 <h2> 📊 Estatísticas </h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Richardo-o&show_icons=true)
+
