@@ -1,4 +1,4 @@
-## Oi eu sou Ricardo Estevam, desenvolvedor front-end
+## Olá me chamo Ricardo Estevam, desenvolvedor front-end
 
 Sempre gostei muito de aprender sobre tecnologia. Isso vem desde a minha infância, onde sempre tive contato com o computador e gostar de saber como as coisas na internet funcionavam. Hoje, me vejo como a mesma pessoa, sempre desafiando a mim mesmo para melhorar minhas habilidades como profissional.
 
