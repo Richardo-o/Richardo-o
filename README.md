@@ -2,7 +2,7 @@
 
 Sempre gostei muito de aprender sobre tecnologia. Isso vem desde a minha infância, onde sempre tive contato com o computador e gostar de saber como as coisas na internet funcionavam. Hoje, me vejo como a mesma pessoa, sempre desafiando a mim mesmo para melhorar minhas habilidades como profissional.
 
-Atualmente atuo como desenvolvedor fullstack. Diariamente trabalhando com diversas tecnologias, como: Node.js, Next.js, React, MongoDB, MySQL, JS, HTML,CSS. Além disso estou cursando o 3 semestre da faculdade de Desenvolvimento de Software Multiplataforma.
+Atualmente atuo como desenvolvedor fullstack. Diariamente trabalhando com diversas tecnologias, como: Node.js, Next.js, React, MongoDB, MySQL, JS, HTML,CSS. Além disso estou cursando o 4 semestre da faculdade de Desenvolvimento de Software Multiplataforma.
 
 
 <h2> 🤖 Linguagens e Tecnologias</h2>
